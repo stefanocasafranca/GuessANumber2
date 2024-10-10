@@ -16,6 +16,7 @@
 		49CCE7C72CB8202900E5AF25 /* GuessANumberTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49CCE7C62CB8202900E5AF25 /* GuessANumberTests.swift */; };
 		49CCE7D12CB8202900E5AF25 /* GuessANumberUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49CCE7D02CB8202900E5AF25 /* GuessANumberUITests.swift */; };
 		49CCE7D32CB8202900E5AF25 /* GuessANumberUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49CCE7D22CB8202900E5AF25 /* GuessANumberUITestsLaunchTests.swift */; };
+		49CCE7E02CB8209800E5AF25 /* Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49CCE7DF2CB8209800E5AF25 /* Game.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		49CCE7CC2CB8202900E5AF25 /* GuessANumberUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GuessANumberUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		49CCE7D02CB8202900E5AF25 /* GuessANumberUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GuessANumberUITests.swift; sourceTree = "<group>"; };
 		49CCE7D22CB8202900E5AF25 /* GuessANumberUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GuessANumberUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		49CCE7DF2CB8209800E5AF25 /* Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Game.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				49CCE7AF2CB8202500E5AF25 /* AppDelegate.swift */,
 				49CCE7B12CB8202500E5AF25 /* SceneDelegate.swift */,
 				49CCE7B32CB8202500E5AF25 /* ViewController.swift */,
+				49CCE7DF2CB8209800E5AF25 /* Game.swift */,
 				49CCE7B52CB8202500E5AF25 /* Main.storyboard */,
 				49CCE7B82CB8202900E5AF25 /* Assets.xcassets */,
 				49CCE7BA2CB8202900E5AF25 /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 				49CCE7B42CB8202500E5AF25 /* ViewController.swift in Sources */,
 				49CCE7B02CB8202500E5AF25 /* AppDelegate.swift in Sources */,
 				49CCE7B22CB8202500E5AF25 /* SceneDelegate.swift in Sources */,
+				49CCE7E02CB8209800E5AF25 /* Game.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
