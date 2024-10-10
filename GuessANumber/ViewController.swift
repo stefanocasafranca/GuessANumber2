@@ -35,6 +35,7 @@ class ViewController: UIViewController {
             let guessStatus = game.processMy(guess: actualGuess)
             
             print(guessStatus)
+            //
         }
     }
     
